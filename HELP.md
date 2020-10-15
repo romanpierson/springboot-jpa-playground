@@ -1,0 +1,1 @@
+Just a simple playground for JPA scenarios using gradle
